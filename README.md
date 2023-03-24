@@ -14,14 +14,14 @@
 
 ## The Solution 
 - To summarize our analysis and conclusion, we have come up with the following recommendations for Netflix to reverse its losing trend in total subscribers: 
-1.	Prioritize productions of Romance and Reality TV Netflix Original content 
- - Our segmentation analysis results as well as Netflix’s own past success in creating original content in these genres both showcase the benefits and potential success that could come with this implementation. We strongly believe that Netflix should consider this adoption as making more Netflix Original romantic or reality content would also further enrich Netflix’s movie library.  
-2.	Continue to better user experience on the platform
- - Our segmentation analysis also indicated that user experience is a heavily prized aspect of video streaming for consumers. It is also suggested from web research that user interface and cross-device experience have positive impacts on willingness to continue subscriptions. Therefore, continuing to better UX should be another main area of focus for Netflix. 
-3.	Explore alternative sources of income other than being heavily reliant on subscription fees 
- - With more than 99% of its revenue stream coming from subscriptions, this stream of subscriber loss has a huge impact on Netflix’s quarterly performance. Therefore, we believe that instead of fixating on subscription-based income, Netflix should venture into alternative income sources, such as movie production and the box office.
-4.	Improve its show cancellation rule and deepen the collaborations and conversations with showrunners and producers 
- - Netflix’s cancellation rule should not depend only on algorithms and the balance between costs and revenue. Instead, conducting regular social listening analyses and collaborating more closely with showrunners and producers would help Netflix create better shows that cater to the need of the market. 
+ 1.	Prioritize productions of Romance and Reality TV Netflix Original content 
+  - Our segmentation analysis results as well as Netflix’s own past success in creating original content in these genres both showcase the benefits and potential success that could come with this implementation. We strongly believe that Netflix should consider this adoption as making more Netflix Original romantic or reality content would also further enrich Netflix’s movie library.  
+ 2.	Continue to better user experience on the platform
+  - Our segmentation analysis also indicated that user experience is a heavily prized aspect of video streaming for consumers. It is also suggested from web research that user interface and cross-device experience have positive impacts on willingness to continue subscriptions. Therefore, continuing to better UX should be another main area of focus for Netflix. 
+ 3.	Explore alternative sources of income other than being heavily reliant on subscription fees 
+  - With more than 99% of its revenue stream coming from subscriptions, this stream of subscriber loss has a huge impact on Netflix’s quarterly performance. Therefore, we believe that instead of fixating on subscription-based income, Netflix should venture into alternative income sources, such as movie production and the box office.
+ 4.	Improve its show cancellation rule and deepen the collaborations and conversations with showrunners and producers 
+  - Netflix’s cancellation rule should not depend only on algorithms and the balance between costs and revenue. Instead, conducting regular social listening analyses and collaborating more closely with showrunners and producers would help Netflix create better shows that cater to the need of the market. 
 
 ## Highlights 
 - We asked respondents to rank the performance of each video streaming platform of each of these factors from one to five (worse performing to best performing). From the snake plot, we can see that Netflix performed the best among all factors, but is considered only third best when it comes to price. This calls for a desperate need for change in Netflix’s revenue model. Since while they heavily rely on subscrition fees, consumers are not satisfied with the amount they are paying and just might switch because of this. 
