@@ -7,14 +7,14 @@
  
 ## The Problem
 - Netflix, the company that spearheaded modern-day video streaming business models, is losing subscribers. Starting from Q4 of 2021, Netflix has been in a constant state of decline in total subscribers, which is its first subscriber loss in over a decade. We have identified four main reasons for the subscriber loss hitting Netflix right now: Competitors, Price, Movie Library, and Show Cancellation Strategies.   
- 1.	Competitors: 
+ #### 1.	Competitors: 
  - With new entrants in the market, such as Disney+, HBM Max, Peacock, Paramount Plus, and Apple TV+, it has become increasingly difficult for Netflix to keep its title as the frontrunner when providing the same kind of offerings they had to consumers. Netflix has to up its game in order to stay competitive. 
- 2.	Price: 
+ #### 2.	Price: 
  - Netflix subscription fees have become more expensive. The monthly price of the standard subscription has been increased six times since 2014, making Netflix the most expensive streaming service on the market. And it is still unknown how its new introduction of a “Basic with Ads” plan will be received by the market. 
- 3.	Movie Library: 
+ #### 3.	Movie Library: 
  - It is suggested that Netflix’s movie library has shrunk by more than 40% in 2022, now that traditional entertainment titans are all branching into streaming themselves. 
- 4.	Netflix’s Show Cancelling Strategy: 
-  - Netflix evaluates a show’s performance by balancing viewership against the cost of the renewal process with heavy reliance on algorithms. This over-dependence on algorithms could cause failures since they might not capture everything and the data may be incomplete, which both lead to fallacious results.
+ ####4.	Netflix’s Show Cancelling Strategy:
+ - Netflix evaluates a show’s performance by balancing viewership against the cost of the renewal process with heavy reliance on algorithms. This over-dependence on algorithms could cause failures since they might not capture everything and the data may be incomplete, which both lead to fallacious results.
 
 ## The Solution 
 - To summarize our analysis and conclusion, we have come up with the following recommendations for Netflix to reverse its losing trend in total subscribers: 
