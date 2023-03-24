@@ -1,12 +1,12 @@
 # Executive Summary
 
 ## Overview 
-- We will be conducting this analytical study on Netflix with an emphasis on its decline in total subscribers. This decline in subscribers is incredibly significant to Netflix’s business model as subscription accounts for more than 99% of its revenue stream. 
+We will be conducting this analytical study on Netflix with an emphasis on its decline in total subscribers. This decline in subscribers is incredibly significant to Netflix’s business model as subscription accounts for more than 99% of its revenue stream. 
 
-- To answer this question, we first leveraged existing data from sources such as Kaggle and Google Trends. Then, we designed an online questionnaire focused on understanding what factors are most imperative to people using streaming services, what segments of users and audiences are there, and what are their individual needs. We have also analyzed this first-hand data using Factor Analysis, Segmentation Analysis, and Regression Analysis. As a result, we have developed several recommendations and marketing mock-ups based on quantitative results and managerial usefulness.  
+To answer this question, we first leveraged existing data from sources such as Kaggle and Google Trends. Then, we designed an online questionnaire focused on understanding what factors are most imperative to people using streaming services, what segments of users and audiences are there, and what are their individual needs. We have also analyzed this first-hand data using Factor Analysis, Segmentation Analysis, and Regression Analysis. As a result, we have developed several recommendations and marketing mock-ups based on quantitative results and managerial usefulness.  
  
 ## The Problem
-- Netflix, the company that spearheaded modern-day video streaming business models, is losing subscribers. Starting from Q4 of 2021, Netflix has been in a constant state of decline in total subscribers, which is its first subscriber loss in over a decade. We have identified four main reasons for the subscriber loss hitting Netflix right now: Competitors, Price, Movie Library, and Show Cancellation Strategies.   
+Netflix, the company that spearheaded modern-day video streaming business models, is losing subscribers. Starting from Q4 of 2021, Netflix has been in a constant state of decline in total subscribers, which is its first subscriber loss in over a decade. We have identified four main reasons for the subscriber loss hitting Netflix right now: Competitors, Price, Movie Library, and Show Cancellation Strategies.   
  #### 1.	Competitors: 
  - With new entrants in the market, such as Disney+, HBM Max, Peacock, Paramount Plus, and Apple TV+, it has become increasingly difficult for Netflix to keep its title as the frontrunner when providing the same kind of offerings they had to consumers. Netflix has to up its game in order to stay competitive. 
  #### 2.	Price: 
