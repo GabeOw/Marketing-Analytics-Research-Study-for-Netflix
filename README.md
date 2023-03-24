@@ -28,6 +28,6 @@ To summarize our analysis and conclusion, we have come up with the following rec
    - Netflix’s cancellation rule should not depend only on algorithms and the balance between costs and revenue. Instead, conducting regular social listening analyses and collaborating more closely with showrunners and producers would help Netflix create better shows that cater to the need of the market. 
 
 ## Highlights 
-- We asked respondents to rank the performance of each video streaming platform of each of these factors from one to five (worse performing to best performing). From the snake plot, we can see that Netflix performed the best among all factors, but is considered only third best when it comes to price. This calls for a desperate need for change in Netflix’s revenue model. Since while they heavily rely on subscrition fees, consumers are not satisfied with the amount they are paying and just might switch because of this. 
+We asked respondents to rank the performance of each video streaming platform of each of these factors from one to five (worse performing to best performing). From the snake plot, we can see that Netflix performed the best among all factors, but is considered only third best when it comes to price. This calls for a desperate need for change in Netflix’s revenue model. Since while they heavily rely on subscrition fees, consumers are not satisfied with the amount they are paying and just might switch because of this. 
 
-![Picture1](https://user-images.githubusercontent.com/95270132/227630987-7bf47759-8eb5-4508-9365-24fba00b5627.png)
+
