@@ -7,10 +7,14 @@
  
 ## The Problem
 - Netflix, the company that spearheaded modern-day video streaming business models, is losing subscribers. Starting from Q4 of 2021, Netflix has been in a constant state of decline in total subscribers, which is its first subscriber loss in over a decade. We have identified four main reasons for the subscriber loss hitting Netflix right now: Competitors, Price, Movie Library, and Show Cancellation Strategies.   
- 1.	Competitors: With new entrants in the market, such as Disney+, HBM Max, Peacock, Paramount Plus, and Apple TV+, it has become increasingly difficult for Netflix to keep its title as the frontrunner when providing the same kind of offerings they had to consumers. Netflix has to up its game in order to stay competitive. 
- 2.	Price: Netflix subscription fees have become more expensive. The monthly price of the standard subscription has been increased six times since 2014, making Netflix the most expensive streaming service on the market. And it is still unknown how its new introduction of a “Basic with Ads” plan will be received by the market. 
- 3.	Movie Library: It is suggested that Netflix’s movie library has shrunk by more than 40% in 2022, now that traditional entertainment titans are all branching into streaming themselves. 
- 4.	Netflix’s Show Cancelling Strategy: Netflix evaluates a show’s performance by balancing viewership against the cost of the renewal process with heavy reliance on algorithms. This over-dependence on algorithms could cause failures since they might not capture everything and the data may be incomplete, which both lead to fallacious results.
+ 1.	Competitors: 
+ - With new entrants in the market, such as Disney+, HBM Max, Peacock, Paramount Plus, and Apple TV+, it has become increasingly difficult for Netflix to keep its title as the frontrunner when providing the same kind of offerings they had to consumers. Netflix has to up its game in order to stay competitive. 
+ 2.	Price: 
+ - Netflix subscription fees have become more expensive. The monthly price of the standard subscription has been increased six times since 2014, making Netflix the most expensive streaming service on the market. And it is still unknown how its new introduction of a “Basic with Ads” plan will be received by the market. 
+ 3.	Movie Library: 
+ - It is suggested that Netflix’s movie library has shrunk by more than 40% in 2022, now that traditional entertainment titans are all branching into streaming themselves. 
+ 4.	Netflix’s Show Cancelling Strategy: 
+  - Netflix evaluates a show’s performance by balancing viewership against the cost of the renewal process with heavy reliance on algorithms. This over-dependence on algorithms could cause failures since they might not capture everything and the data may be incomplete, which both lead to fallacious results.
 
 ## The Solution 
 - To summarize our analysis and conclusion, we have come up with the following recommendations for Netflix to reverse its losing trend in total subscribers: 
@@ -25,3 +29,5 @@
 
 ## Highlights 
 - We asked respondents to rank the performance of each video streaming platform of each of these factors from one to five (worse performing to best performing). From the snake plot, we can see that Netflix performed the best among all factors, but is considered only third best when it comes to price. This calls for a desperate need for change in Netflix’s revenue model. Since while they heavily rely on subscrition fees, consumers are not satisfied with the amount they are paying and just might switch because of this. 
+
+![Picture1](https://user-images.githubusercontent.com/95270132/227630987-7bf47759-8eb5-4508-9365-24fba00b5627.png)
